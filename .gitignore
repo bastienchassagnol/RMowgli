@@ -133,3 +133,6 @@ datasets/
 
 # numpy
 *.npy
+.Rproj.user
+inst/doc
+docs
